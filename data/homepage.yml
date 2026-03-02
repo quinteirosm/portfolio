@@ -6,10 +6,10 @@ head:
 showcase:
  enable: true
  title: "Hello, I’m Miguel"
- subtitle: "a Media Engineering student"
+ subtitle: "a Media Engineer"
  description: "
- I'm currently studying at the HEIG-VD in Yverdon-les-Bains, Switzerland.<br>
- Feel free to get in touch with me if you'd want to work together as I'm searching for a position that starts in January 2025."
+ I hold a degree in Media Engineering from the HEIG-VD (graduated September 2024).<br>
+ I am currently seeking new professional challenges and would love to discuss how we can work together."
  
  # image:
  #  x: "img/showcase/showcase.png"
@@ -80,19 +80,19 @@ client_and_work:
  title: "Portfolio"
  enable: true
  works:
-  - title: "Bachelor's work 2024"
+  - title: "Mobile Application for VenoCert: Biometric & NFC Authentication"
     description: "
-    There will be a full, detailed page on my experience of the Bachelor's work that marks the end of my studies at HEIG-VD.<br>
-    This work will start at the end of May and end on September 2024, so don't hesitate to drop by again before the end of the year.<br>
-    The work will consist of a mobile application for a start-up from the EPFL in Lausanne.<br>
-    The whole process will be traced from conception to deployment.<br>"
+    In collaboration with Global ID SA (EPFL Innovation Park), I designed and developed a hybrid mobile application and its dedicated API for the VenoCert service. 
+    This cybersecurity project focuses on high-security document authentication using biometric finger-vein scans, NFC tags, and QR codes. <br><br>
+    <b>Technical Stack:</b> Developed the mobile client with Ionic, Angular, and TypeScript, and the backend using Node.js, Express, and Prisma ORM. The infrastructure includes Nginx and Docker for deployment, with full API documentation via Swagger. <br><br>
+    <b>Key Deliverables:</b> Managed the complete lifecycle from a functional MVP to a polished prototype ready for demonstrations. <br><br><i>Note on Confidentiality: Due to the sensitive nature of the technology, specific technical details are under a non-disclosure agreement.</i>"
     buttons:
      - icon: "icon-arrow-right"
-       btnText: "Go to the page (not available for the moment)"
-       URL: ""
+       btnText: "Explore the project on the HEIG-VD Portal"
+       URL: "http://www.tb.heig-vd.ch/8431"
     image:
-      x: "img/works/HEIG.svg"
-      _2x: "img/works/HEIG.svg"
+      x: "img/works/globalid.jpg"
+      _2x: "img/works/globalid.jpg"
     is_even: true
 
   - title: "DogWalk API & App (ongoing)"
