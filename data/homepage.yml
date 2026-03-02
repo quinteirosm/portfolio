@@ -95,7 +95,7 @@ client_and_work:
       _2x: "img/works/globalid.jpg"
     is_even: true
 
-  - title: "DogWalk API & App (ongoing)"
+  - title: "DogWalk API & App"
     description: "
     During our 3rd year, for the web architecture and mobile development courses, we were able to carry out a joint project.<br>
     The project consisted of an API and an application based on it, the aim of which was to enable dog walkers to stop walking their dogs on their own.<br><br>
@@ -115,7 +115,7 @@ client_and_work:
       _2x: "img/works/DogWalk.png"
     is_even: true
 
-  - title: "LabVeilTec - SSG Website (ongoing)"
+  - title: "LabVeilTec - SSG Website"
     description: "
     For the technology watch course, we had to research and write various articles on technology watch and how to apply it to ourselves.<br> 
     The only condition was that we had to submit the articles in the form of a site generated with an SSG.<br> 
