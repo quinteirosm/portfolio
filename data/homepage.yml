@@ -89,7 +89,7 @@ client_and_work:
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Explore the project on the HEIG-VD Portal"
-       URL: "http://www.tb.heig-vd.ch/8431"
+       URL: "https://tb.heig-vd.ch/8431"
     image:
       x: "img/works/globalid.jpg"
       _2x: "img/works/globalid.jpg"
