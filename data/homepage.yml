@@ -61,10 +61,7 @@ experience:
  buttons:
   - icon: "icon-profile-fill"
     btnText: "French resume"
-    URL: "documents/MMQ_CV_2023.pdf"
-  - icon: "icon-profile-fill"
-    btnText: "English resume"
-    URL: "documents/MMQ_CV_eng.pdf"
+    URL: "documents/mmq_CV_FR.pdf"
 
  items:
   - title: "Mediamatician trainee"
