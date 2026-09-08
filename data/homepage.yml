@@ -110,8 +110,8 @@ client_and_work:
        btnText: "Read the report (FR)"
        URL: "documents/AppYRapport.pdf"
     image:
-      x: "img/works/appy.jpg"
-      _2x: "img/works/appy.jpg"
+      x: "img/works/appy.png"
+      _2x: "img/works/appy.png"
     is_even: true
 
   - title: "DogWalk API & App"
