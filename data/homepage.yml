@@ -95,6 +95,25 @@ client_and_work:
       _2x: "img/works/globalid.jpg"
     is_even: true
 
+    - title: "AppY — A Storytelling Discovery App for the City of Yverdon-les-Bains"
+    description: "
+    <b>Role:</b> Scrum Master & UI/UX Design <br><br>
+    AppY was a real-world mandate from the City of Yverdon-les-Bains, commissioned by Chantal Tauxe (Head of Communications) as part of a 4-week HEIG-VD academic project (13-student team). The goal: revitalize the city's image for families through an immersive, story-driven mobile app. <br><br>
+    <b>Scrum Master responsibilities:</b> I facilitated all daily stand-ups, sprint plannings and retrospectives. While the Product Owner drafted the initial goals and tasks, I took ownership of backlog prioritization and story point estimation together with each team's lead, then moved tasks into the sprint based on the team's velocity. <br><br>
+    <b>UI/UX Contribution:</b> In parallel, I designed the application's interface in Figma, translating research (empathy maps, personas, feature prioritization matrix) into a functional high-fidelity prototype. <br><br>
+    <b>The Concept:</b> AppY guides families through QR-code-based storytelling walks across the city, led by two original characters, Violette and Brumus, combining local heritage discovery, gamified challenges, and partnerships with local businesses (reward vouchers)."
+    buttons:
+     - icon: "icon-arrow-right"
+       btnText: "Explore the interactive prototype on Figma"
+       URL: "https://www.figma.com/proto/qblxbMsMlyzrVqwnKD7F4c/Branding-High-fidelity?node-id=318-783&starting-point-node-id=318%3A783&t=4frvPBcbu2EHb1F1-1"
+     - icon: "icon-file-text"
+       btnText: "Read the report (FR)"
+       URL: "documents/AppYRapport.pdf"
+    image:
+      x: "img/works/appy.jpg"
+      _2x: "img/works/appy.jpg"
+    is_even: true
+
   - title: "DogWalk API & App"
     description: "
     During our 3rd year, for the web architecture and mobile development courses, we were able to carry out a joint project.<br>
@@ -139,7 +158,7 @@ client_and_work:
        btnText: "Github repository"
        URL: "https://github.com/loicfontaine/FlopV2"
      - icon: "icon-arrow-right"
-       btnText: "Report"
+       btnText: "Read the report (FR)"
        URL: "documents/Couleur3.pdf"
     image:
      x: "img/works/Couleur3.png"
@@ -167,7 +186,7 @@ client_and_work:
     During this project, I was in charge of e-commerce plug-ins and products implementation.<br>"
     buttons:
      - icon: "icon-arrow-right"
-       btnText: "Report"
+       btnText: "Read the report (FR)"
        URL: "documents/BurgersLovers.pdf"
     image:
      x: "img/works/BurgersLovers.svg"
