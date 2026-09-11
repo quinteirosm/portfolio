@@ -178,6 +178,9 @@ client_and_work:
      - icon: "icon-arrow-right"
        btnText: "Github repository"
        URL: "https://github.com/quinteirosm/visualdon-projet-sommeil"
+     - icon: "icon-arrow-right"
+       btnText: "Website"
+       URL: "https://sleepcompare.netlify.app/"
     image:
       x: "img/works/SleepCompare.png"
       _2x: "img/works/SleepCompare.png"
